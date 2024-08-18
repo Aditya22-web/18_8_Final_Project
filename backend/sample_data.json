@@ -1,0 +1,37 @@
+{
+  "player_stats": [
+    {
+      "id": "1",
+      "name": "Virat Kohli",
+      "batting_average": 53.5,
+      "bowling_average": 0,
+      "matches_played": 254,
+      "runs_scored": 12169,
+      "wickets_taken": 4
+    },
+    {
+      "id": "2",
+      "name": "Jasprit Bumrah",
+      "batting_average": 3.5,
+      "bowling_average": 24.3,
+      "matches_played": 67,
+      "runs_scored": 35,
+      "wickets_taken": 108
+    },
+    {
+      "id": "3",
+      "name": "Rohit Sharma",
+      "batting_average": 48.6,
+      "bowling_average": 0,
+      "matches_played": 227,
+      "runs_scored": 9205,
+      "wickets_taken": 8
+    }
+  ],
+  "pitch_conditions": {
+    "pitch_type": "dry",
+    "weather": "sunny",
+    "temperature": 30,
+    "humidity": 45
+  }
+}
